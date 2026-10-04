@@ -1,0 +1,7 @@
+.venv/
+.vscode/
+logs/
+inventory.db
+__pycache__/
+*.pyc  
+data/  
